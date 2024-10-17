@@ -1,0 +1,819 @@
+Guión original, traducido al castellano, de Blade Runner
+A principios del siglo XXI, la Tyrell Corporation
+desarrolló un nuevo tipo de robot
+llamado Nexus. Un ser virtualmente idéntico al hombre
+y conocido como Replicante.
+Los Replicantes Nexus-6 eran superiores
+en fuerza y agilidad y, al menos, iguales en
+inteligencia a los ingenieros de genética que los crearon.
+En el espacio exterior, los Replicantes fueron usados
+como trabajadores esclavos en la arriesgada exploración
+y colonización de otros planetas.
+Después de la sangrienta rebelión de un equipo de combate
+de Nexus-6 en una colonia sideral, los Replicantes
+fueron declarados proscritos en La Tierra bajo pena de muerte.
+Brigadas de policías especiales con el nombre de unidades
+de BLADE RUNNERS tenían órdenes de tirar a matar
+al ver a cualquier Replicante invasor.
+A esto no se le llamó ejecución.
+Se le llamó retiro.
+LOS ÁNGELES
+NOVIEMBRE, 2019
+[Despacho de la Tyrell Corporation]
+Intercom: Siguiente individuo: Leon Kowalski, ingeniero, disponible total, sección 5ª, nuevo
+empleado.
+[Holden espera sentado dentro de su despacho. Alguien llama a la puerta]
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Holden: Adelante.
+Intercom: Report to zone A, sector 9. Replication sector, level 9. We have a B-1 security
+alert. Standby for ID check.
+Holden: Siéntese.
+Intercom: Replication sector, level 9 - we have a B-1 security alert. Standby for ....
+Leon: ¿Le importa si hablo? Me pongo nervioso cuando hago un test.
+Holden: Por favor, no se mueva.
+Leon: Disculpe. Ya me han hecho .... un test de inteligencia este año. No creí que tuviera
+que someterme ....
+Holden: El tiempo de reacción es primordial. Por favor, ponga atención. Conteste lo más
+rápido que pueda.
+Leon: Muy bien.
+Holden: 1-1 8-7 Hinterwasser.
+Leon: Ese es mi hotel.
+Holden: ¿Qué?
+Leon: Donde yo vivo.
+Holden: ¿Un sitio bonito?
+Leon: Sí, eso creo. ¿Esto es parte del test?
+Holden: No, era solo por charlar.
+Leon: No es que sea de mi agrado.
+Holden: Esta usted en un desierto, caminando por la arena, cuando ....
+Leon: ¿Eso ya es el test?
+Holden: Sí. Esta usted en un desierto, caminando por la arena, cuando, de repente, ....
+Leon: ¿En cuál?
+Holden: ¿Qué?
+Leon: ¿Qué desierto?
+Holden: El desierto que sea. No importa. Es hipotético.
+Leon: ¿Y por qué iba a estar allí?
+Holden: Quizás porque usted está harto, o quiere estar solo. Quién sabe. Mira hacia abajo y
+ve a un galápago que se arrastra hacia usted.
+Leon: ¿Un galápago? ¿Qué es eso?
+Holden: ¿Sabe lo que es una tortuga?
+Leon: Claro.
+Holden: Pues lo mismo.
+Leon: Nunca he visto una tortuga .... pero le comprendo a usted.
+Holden: Se agacha usted y pone el galápago patas arriba, Leon.
+Leon: ¿Se inventa usted esas preguntas, Sr. Holden, o se las dan escritas?
+Holden: El galápago yace sobre su espalda con el estómago cociéndose al sol y moviendo
+las patas para darse la vuelta, pero sin su ayuda no puede. Y usted no le ayuda.
+Leon: ¿Qué quiere decir que no le ayudo?
+Holden: Quiere decir que no le ayuda. ¿Por qué es así Leon? [pausa] Solo son preguntas,
+Leon. En respuesta a la suya le diré que me las dan escritas. Es un test hecho para
+2
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+provocar una respuesta emocional. [pausa] ¿Quiere que sigamos? [pausa]
+Descríbame, con palabras sencillas, solo las cosas buenas que le vienen a la
+mente .... a cerca de su madre.
+Leon: ¿Mi madre?
+Holden: Sí.
+Leon: Le voy a hablar de mi madre. [Leon dispara a Holden repetidas veces]
+[Corte. Aparece Deckard en la calle leyendo un periódico]
+Overhead blimp: Una nueva vida le espera en las colonias del mundo exterior. La ocasión de
+volver a empezar en una tierra de grandes oportunidades y aventuras.
+Overhead blimp: Una nueva vida le espera en las colonias del mundo exterior. La ocasión de
+volver a empezar en una tierra de grandes oportunidades y aventuras. Un nuevo
+clima, facilidades de ....
+Deckard (voice-over): No nos avisan contra los asesinos en el periódico. Esa era mi
+profesión: ex-policía, ex-bladerunner, ex-asesino.
+Overhead blimp: Una nueva vida le espera en las colonias del mundo exterior. La ocasión de
+volver a empezar en una tierra de grandes oportunidades y aventuras. Un nuevo
+clima, facilidades recreativas ....
+[Deckard se acerca hasta un puesto de comida ambulante]
+Sushi Master: ¿Nan-ni shimasho-ka? [En Japonés: "¿Qué le gustaría tomar?"]
+Deckard: Esto, tráeme cuatro.
+Sushi Master: Futatsu de jubun desuyo. [En Japonés: "Dos son suficientes para usted"]
+Deckard: No, cuatro. Dos y dos, cuatro.
+Sushi Master: Futatsu de jubun desuyo. [En Japonés: "Dos son suficientes para usted"]
+Deckard: Y tallarines.
+Deckard (voice-over): Sushi, así es como me llamaba mi ex-mujer. Pescado frío.
+[Varios policías se acercan por detrás de Deckard]
+Policía: Idi-wa. [En Coreano: "Venga aquí"]
+Gaff: Monsier, ada-na kobishin angum bi-te. [En Interlingua: "Debe usted acompañarme
+señor"]
+Sushi Master: Dice que está usted detenido, Sr. Deckard.
+Deckard: Te equivocas de hombre, amigo.
+Gaff: Lo-faast! Nehod[y] maar! Te vad[y] a Blade... Blade Runner! [En Interlingua: "Maldito
+cabrón! Sé que eres un Blade Runner!"]
+Sushi Master: Dice que es usted un Blade Runner.
+Deckard: Dile que estoy comiendo.
+Gaff: Captain Bryant toka. Meni-o mae-yo. [En Interlingua: "El Capitán Bryant me ha
+ordenado llevarle"]
+Deckard: Bryant, eh?
+[Deckard y Gaff vuelan en un Spinner hasta la central de policía]
+Spinner: Yellow 3, climb and maintain four thousand... when approaching pad six...
+Deckard (voice-over): Este hombre encantador es Gaff. Ya le había visto por ahí. Bryant le
+debe haber metido en la unidad Blade Runner. La jerga que habla es Interlingua,
+un argot. Una mezcolanza de francés, inglés, italiano, español y lo que sea. En
+3
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+realidad yo no necesitaba traductor, conocía esa jerga, todo buen policía la conocía.
+Pero no iba a ponérselo aún más fácil.
+Spinner: ...final descent, now on glide path, on course, over the landing threshold.
+[Oficina de Bryant]
+Bryant: Hola Deck.
+Deckard: Bryant.
+Bryant: No hubieras venido si solo te lo hubiera pedido. Siéntate, chico. Vamos, no seas
+estúpido, Deckard. Tengo a cuatro pellejudos pateando las calles.
+Deckard (voice-over): Pellejudos. Así era como Bryant llamaba a los replicantes. En los
+libros de historia él es el tipo de policía que solía llamar chimpancés a los negros.
+Bryant: Asaltaron una lanzadera espacial. Mataron a la tripulación y a los pasajeros.
+Encontraron la lanzadera a la deriva hace dos semanas, así que sabemos que están
+por aquí.
+[Bryant ofrece un trago a Deckard]
+Deckard: Mal asunto.
+Bryant: No señor, no lo es, porque nadie va a descubrir que están aquí abajo, puesto que tú
+vas a perseguirlos y retirarlos.
+Deckard: Yo ya no trabajo aquí. Dáselo a Holden, es muy bueno.
+Bryant: Ya lo hice. Él lo hacía bien, pero se lo cargaron. No era lo bastante bueno. Tú eres
+mejor. Te necesito Deck, esto es algo grave, de lo peor. Necesito al veterano Blade
+Runner, necesito tu magia.
+Deckard: Ya había renunciado cuando entré aquí, Bryant. Y ahora vuelvo a renunciar.
+Bryant: Quédate donde estás. Si no ejerces de policía difícilmente podrás ejercer de otra
+cosa.
+[Gaff hace una gallina de origami]
+Deckard: ¿Sin elección, eh?
+Bryant: Sin elección amigo.
+[Sala Azul. Deckard y Bryant ven en un monitor el vídeo del test de Holden a Leon]
+Leon (vídeo): Ya me han hecho un test de inteligencia este año. No creí que tuviera que
+someterme a uno de estos.
+Holden (vídeo): El tiempo de reacción es primordial. Por favor, ponga atención. Conteste lo
+más rápido que pueda.
+Leon (vídeo): Muy bien.
+Holden (vídeo): 1-1 8-7 Hinterwasser.
+Leon (vídeo): Ese es mi hotel.
+Holden (vídeo): ¿Qué?
+Leon (vídeo): Donde yo vivo.
+Holden (vídeo): ¿Un sitio bonito?
+Leon (vídeo): Sí, eso creo ....
+Bryant: Hubo una fuga de las colonias del mundo exterior hace dos semanas. Seis
+replicantes, tres varones y tres hembras, asesinaron a veintitrés personas y
+asaltaron una lanzadera. Una patrulla aérea la divisó lejos de la costa; ningún
+tripulante, ni rastro de ellos. Hace tres noches intentaron entrar en la Tyrell
+Corporation; uno de ellos se abrasó al atravesar un campo electromagnético,
+perdimos a los otros. Por la posibilidad de que hubieran podido infiltrase como
+4
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+empleados mandamos a Holden para que efectuara un test Voight Kampff a los
+nuevos. Y parece que descubrió a uno.
+Holden (vídeo): y ve a un galápago que se arrastra hacia usted.
+Leon (vídeo): ¿Un galápago?, ¿Qué es eso?
+Holden (vídeo): ¿Sabe lo que es una tortuga?
+Leon (vídeo): Claro.
+Holden (vídeo): Pues lo mismo.
+Leon (vídeo): Nunca he visto una tortuga .... pero le comprendo a usted.
+Deckard: No lo entiendo. ¿Por qué se arriesgan a volver a la Tierra?, es extraño, ¿Por qué ?
+¿Qué es lo que quieren de la Tyrell Corporation?
+Bryant: Dímelo tú, chico, para eso estás aquí.
+[Deckard sonríe. El monitor muestra a una serie de replicantes]
+Deckard: ¿Quién es?
+Bryant: Nexus 6. Roy Batty. Fecha de creación 2016. Ejemplar de combate. Autoeficacia
+óptima. Probablemente el jefe. [pausa] Esta es Zhora. Fue entrenada para la
+patrulla especial de detención de criminales. Algo así como la bella y la bestia, es
+ambas cosas. [pausa] La cuarta pellejuda es Pris; una modelo básico de placer. Un
+ítem estándar para los clubs militares de las colonias del exterior. Fueron diseñados
+como copias de seres humanos en todos los sentidos, excepto en sus emociones.
+Pero, los diseñadores creen que, al cabo de unos años, pueden desarrollar sus
+propias respuestas emocionales; odio, amor, miedo, cólera, envidia .... Por eso les
+dotaron con un dispositivo de seguridad.
+Deckard: ¿Cuál es?
+Bryant: Cuatro años de vida.
+[Deckard sonríe]
+Bryant: Hay un Nexus6 en la Tyrell Corporation. Ve a observarlo con la máquina.
+Deckard: ¿Y si la máquina no funciona?
+[Deckard vuela hacia la Tyrell Corporation]
+Deckard (voice-over): Yo renuncié porque ya llevaba muchas muertes sobre mí. Claro que
+entonces yo prefería ser asesino que víctima, y esa era, exactamente, la treta que
+Bryant utilizaba con la gente. Así que volví a enrolarme una vez más, pensando que
+si no tenía éxito lo dejaría definitivamente. No tenía que preocuparme por Gaff,
+estaba buscando un ascenso y, por lo tanto, no le interesaba que yo volviera.
+[Despacho de Tyrell. Deckard observa a un búho que vuela libremente dentro de la sala]
+Rachael: ¿Le gusta nuestro búho?
+Deckard: ¿Es artificial?
+Rachael: Naturalmente.
+Deckard: Debe ser cara.
+Rachael: Mucho. Me llamo Rachael.
+Deckard: Deckard.
+Rachael: Parece que piensa usted que nuestro trabajo no es un beneficio para la gente.
+Deckard: Los replicantes son como cualquier otra máquina; pueden ser un beneficio o un
+peligro. Si son un beneficio no es asunto mío.
+Rachael: ¿Puedo hacerle una pregunta personal?
+Deckard: Claro.
+5
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Rachael: ¿Nunca ha retirado a un humano por error?
+Deckard: No.
+Rachael: En su posición eso es un riesgo.
+[Aparece el Dr. Tyrell cortando la conversación]
+Tyrell: ¿Esto va a ser un test de empatía? Dilatación capilar por las así llamadas respuestas
+ruborizantes. Fluctuación de la pupila. Dilatación involuntaria del iris.
+Deckard: Nosotros lo llamamos Voight Kampff para abreviar.
+Rachael: Sr. Deckard, el Dr. Eldon Tyrell.
+Tyrell: Demuéstrelo. Quiero verlo trabajar.
+Deckard: ¿Dónde está el sujeto?
+Tyrell: Quiero verlo funcionar en una persona. Quiero ver una negativa antes de
+proporcionarle una positiva.
+Deckard: ¿Y eso que va a demostrar?
+Tyrell: ¿Quiere complacerme?
+Deckard: ¿Con usted?
+Tyrell: Intente con ella.
+Deckard: Hay demasiada luz.
+[Una gran ventana se oscurece reduciendo sensiblemente la entrada de luz]
+Rachael: ¿Le importa si fumo?
+[Deckard ajusta la máquina de Voight Kampff]
+Deckard: Eso no afectará al test. Bien, le voy a hacer una serie de preguntas. Relájese y
+contéstelas lo más sencillamente que pueda. [pausa] Es su cumpleaños, y le
+regalan una cartera de piel.
+Rachael: No la aceptaría, y además denunciaría a la policía a la persona que me la regalara.
+Deckard: Tiene un hijo. Éste le enseña su colección de mariposas y un frasco de arsénico.
+Rachael: Le llevaría al médico.
+Deckard: Está viendo la televisión. De repente, se da cuenta de que una avispa le sube por
+el brazo.
+Rachael: La mataría.
+Deckard: Está leyendo una revista y se encuentra con la fotografía de una mujer desnuda.
+Rachael: ¿Este test es para saber si soy una replicante o una lesbiana?
+Deckard: Conteste a las preguntas, por favor. [pausa] Se la enseña usted a su marido y a
+éste le gusta tanto que la pone en la pared de su dormitorio. ¿Se enfadaría?
+Rachael: No le dejaría.
+Deckard: No le dejaría. ¿Por qué no?
+Rachael: Debo ser suficiente para él.
+[El tiempo discurre en el despacho de Tyrell]
+Deckard: Una pregunta más. [pausa] Está viendo una obra de teatro. Tiene lugar un
+banquete en el que los invitados se deleitan con un aperitivo de ostras vivas. El
+primer plato consiste en perro cocido.
+[La máquina de Voight Kampff parece emitir una señal visual que solo Deckard detecta]
+Tyrell: ¿Quiere usted salir un momento Rachael? [pausa]
+6
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+[Rachael sale del despacho]
+Deckard: Ella es una replicante, ¿no es así?
+Tyrell: Estoy impresionado. ¿Cuántas preguntas son las normales para detectar a uno?
+Deckard: No le comprendo Tyrell.
+Tyrell: ¿Cuántas preguntas?
+Deckard: Veinte, treinta, según el tipo.
+Tyrell: Le ha costado más de cien con Rachael, ¿no es así?
+Deckard: ¿Ella no lo sabe?
+Tyrell: Está empezando a sospechar, creo.
+Deckard: ¿Sospechar? ¿Cómo puede no saber lo que es?
+Tyrell: El comercio es nuestro objetivo aquí, en la Tyrell. Y nuestro lema más humanos que
+los humanos. Rachael es un experimento, nada más. Empezamos a percibir en ellos
+extrañas obsesiones. Después de todo son inexpertos emocionalmente. Con unos
+años para almacenar las experiencias que usted y yo damos por supuesto. Si les
+obsequiamos con un pasado creamos un apoyo para sus emociones y,
+consecuentemente, podemos controlarlos mejor.
+Deckard: Recuerdos. Usted habla de recuerdos.
+[Deckard vuela hasta el apartamento de Leon. De fondo se escucha el vídeo de Holden y
+Leon]
+Holden (vídeo): El tiempo de reacción es primordial. Por favor, ponga atención. Conteste lo
+más rápido que pueda.
+Leon (vídeo): Muy bien.
+Holden (vídeo): 1-1 8-7 Hinterwasser.
+Leon (vídeo): Ese es mi hotel.
+Holden (vídeo): ¿Qué?
+Leon (vídeo): Donde yo vivo.
+Holden (vídeo): ¿Un sitio bonito?
+Leon (vídeo): Sí, eso creo. ¿Esto es parte del test?
+Holden (vídeo): No ....
+[Deckard y Gaff investigan dentro del desocupado apartamento de Leon]
+Deckard (voice-over): No sabía si Leon le había dado a Holden la dirección correcta. Pero
+era la única pista que tenía. Así que lo investigué.
+[Deckard entra en un oscuro baño y encuentra una escama dentro de la bañera]
+Deckard (voice-over): Fuera lo que fuese lo que había en la bañera no era humano. Los
+replicantes no tienen escamas.
+[Deckard encuentra unas fotos escondidas dentro de los cajones de un mueble]
+Deckard (voice-over): Y .... fotos familiares. Los replicantes tampoco tienen familia.
+[Corte. Las calles de Los Ángeles. Aparece Roy Batty con Leon]
+Roy: Tiempo, el suficiente. [pausa] ¿Conseguiste tus preciadas fotos?
+Leon: Había alguien allí.
+Roy: ¿Hombres? ¿Poli .... cías?
+[Roy y Leon caminan lentamente hacia el laboratorio de Chew]
+7
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+[Interior del laboratorio. La temperatura es muy baja. Chew aparece trabajando frente a un
+microscopio]
+Chew: Ha, ha!
+[Chew se alarma ante la presencia de Roy y Leon e intenta pedir ayuda inútilmente]
+Roy: .... Y los ángeles ígneos cayeron. Profundos truenos se oían en las costas ardiendo con
+los fuegos de Oro.
+[Leon observa y juega con los diseños de Chew]
+Chew: No podéis entrar, es ilegal. Eh. [pausa] Eh, eh! Frío! Esos son mis ojos. Congelados!
+Roy: Sí, preguntas.
+[Leon arranca el traje protector de Chew. Éste empieza a sentir frío]
+Chew: Hu-ahh. Huh. Huh-ay...
+Roy: Morfología, longevidad, fecha de nacimiento.
+Chew: No lo sé. Yo no sé esas cosas. Yo sólo fabrico ojos. Sólo ojos, diseños genéticos, sólo
+ojos. [pausa] ¿Eres Nexus, eh? Yo diseñé tus ojos.
+Roy: Chew, me gustaría que pudieras ver lo que yo hago con tus ojos. Ahora, preguntas.
+Chew: No sé las respuestas.
+Roy: ¿Quién las sabe?
+Chew: Tyrell. Él lo sabe todo.
+Roy: ¿Tyrell Corporation?
+Chew: Es .... el gran jefe. Un genio. Él ha diseñado tu cerebro, tu mente.
+Roy: Muy listo.
+Chew: Tengo frío.
+Roy: No es un hombre fácil de ver.
+Chew: Mu-mucho frío.
+Roy: ¿No es así?
+Chew: Se-se-sebastian. Él .... él te llevará allí.
+Roy: ¿Sebastian qué?
+Chew: J.F. Sebas-sebas-sebastian.
+Roy: Y ¿Dónde .... puedo .... encontrar a ese J.F. Sebastian?
+[Aparece Deckard en su coche. De fondo se escucha el vídeo de Holden y Leon]
+Holden (vídeo): ¿Quiere que sigamos? [pausa] Descríbame, con palabras sencillas, solo las
+cosas buenas que le vienen a la mente .... a cerca de su madre.
+Leon (vídeo): ¿Mi madre?
+Holden (vídeo): Sí.
+Leon (vídeo): Le voy a hablar de mi madre. [Leon dispara a Holden repetidas veces]
+[Deckard llega cansado a su apartamento. Entra en el ascensor]
+Ascensor: Identificación de la voz. Su número fónico, por favor.
+Deckard: Deckard 97.
+Ascensor: 97, gracias.
+[Deckard siente la presencia de alguien más en el ascensor. Saca rápidamente su pistola y
+apunta a Rachael. Se abren las puertas del ascensor]
+8
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Rachael: Quería verle [pausa] Así que esperé. [Las llaves de Deckard caen al suelo] Déjeme
+ayudarle.
+Deckard: No necesito ayuda.
+Rachael: No sé por qué él le dijo lo que ha hecho.
+Deckard: Hable con él.
+Rachael: Ya no me recibirá.
+[Deckard entra en su apartamento y cierra la puerta. Después vuelve a abrir para que
+Rachael pueda pasar]
+Deckard: ¿Quiere una copa? ¿eh? ¿No?
+Rachael: Cree que soy una replicante ¿verdad? [pausa] Mire, soy yo con mi madre.
+Deckard: Sí. ¿Recuerda cuando tenía seis años? Usted y su hermano se metieron en un
+edificio vacío por la ventana del sótano. Iban a jugar a médicos. Él le enseñó su
+sexo, y cuando le tocaba hacerlo a usted se avergonzó y corrió. ¿Lo recuerda?
+¿Nunca se lo ha contado a alguien? ¿A su madre, a Tyrell, a alguien? ¿Recuerda la
+araña que vivía en el arbusto junto a su ventana? Con el cuerpo naranja y las patas
+verdes. La vio tejer una tela durante todo el verano. Un día apareció un huevo en
+ella. El huevo eclosionó.
+Rachael: El huevo eclosionó.
+Deckard: Y ....
+Rachael: Salieron cientos de crías de araña que se la comieron.
+Deckard: Implantes! Esos no son sus recuerdos. Son los de algún otro; los de la sobrina de
+Tyrell [pausa] Está bien .... un mal chiste. He hecho un mal chiste. Usted no es una
+replicante. Vállase a casa ¿De acuerdo? [pausa] No, no, de veras, lo siento. Vállase
+a casa. [pausa] ¿Quiere una copa? Le serviré una. Voy por ella.
+[Rachael mira la foto y la tira. Sale corriendo del apartamento. Deckard recoge la foto y la
+observa]
+Deckard (voice-over): Tyrell hizo un buen trabajo con Rachael. De una foto sacó una
+madre, que ella nunca tuvo, y una hija que ella jamás fue. Se supone que los
+replicantes no tienen sentimientos, y que tampoco los tienen los blade runner.
+¿Qué demonios me estaba pasando? [pausa] Las fotos de Leon tenían que ser tan
+falsas como las de Rachael. Yo no entendía por qué un replicante coleccionaba
+fotografías. Quizá eran como Rachael, necesitaban recuerdos.
+[Deckard sale al balcón y observa la ciudad]
+[Corte. Aparece Pris en la entrada del apartamento de Sebastian. Se sienta y se tapa con
+unos periódicos]
+[Está lloviendo. Pasa el tiempo. Aparece Sebastian. Pris se asusta, sale corriendo y tropieza
+con Sebastian]
+Pris: Uhhh... Ungh... Ungh...
+Sebastian: Olvida usted el bolso.
+Pris: Me he perdido.
+Sebastian: Tranquila, no le voy a hacer daño. [pausa] ¿Cómo se llama?
+Pris: Pris.
+Sebastian: Yo J.F. Sebastian.
+Pris: Hola.
+Sebastian: Hola. ¿Adónde iba usted? ¿A casa?
+Pris: No tengo casa. Nos hemos asustado mutuamente, ¿verdad?
+9
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Sebastian: Creo que sí.
+[Pris sonríe]
+Pris: Tengo hambre, J.F.
+Sebastian: Ahí dentro tengo algo. ¿Quiere pasar?
+Pris: Esperaba que lo dijera.
+[Pris y Sebastian entran en el edificio]
+Pris: ¿Vive usted solo en este edificio?
+Sebastian: Sí, ahora vivo aquí solo. Aquí no hay carestía de vivienda. Hay habitaciones para
+todos.
+[Pris tose]
+Sebastian: Cuidado con el agua.
+Pris: Debe sentirse muy solo aquí, J.F.
+Sebastian: Hmm .... En realidad no. Me construyo amigos. Son juguetes. Mis amigos son
+juguetes. Los hago yo. Es un hobby. Soy diseñador genético. ¿Sabe lo que es eso?
+Pris: No.
+Sebastian: Bueno .... Oh, pase.
+[Sebastian y Pris entran en el apartamento. Unas extrañas criaturas les reciben]
+Sebastian: Ee-oo! Ya estoy en casa!
+Kaiser y Bear: De nuevo en casa, qué bien! Buenas tardes J.F.
+Sebastian: Buenas tardes amigos.
+[Kaiser se da la vuelta y se va con paso militar. Tropieza. Pris sonríe]
+Kaiser: Oooh!
+Sebastian: Son mis amigos. Los hago yo. ¿Dónde están sus parientes?
+Pris: Soy una especie de huérfana.
+Sebastian: Oh. ¿Y qué hay de sus amigos?
+Pris: Tengo algunos, pero he de buscarlos. Mañana les diré donde estoy.
+Sebastian: ¿Quiere darme eso? Está empapada, ¿verdad?
+[Corte. Deckard observa sus fotos familiares mientras toca el piano levemente]
+[Deckard elige una de las fotos de Leon y la introduce en el Esper para su análisis]
+Deckard: Ampliación 2-2-4 1-7-6. Ampliación. Alto. Adelante. Alto. Avance a la derecha.
+Alto. Centrado y retroceso. Alto. Desviación 45 a la derecha. Alto. Centrado. Alto.
+Ampliación 34-36. A la derecha y retroceso. Alto. Ampliación 34-36. Retroceso. Un
+momento, a la derecha. Alto. Ampliación 57-19. Desviación 45 a la izquierda. Alto.
+Ampliación 15 a 23. Quiero una copia impresa de eso.
+[Deckard obtiene un detalle impreso de la foto de Leon. En él aparece una mujer]
+[Corte. Las calles de Los Ángeles. Deckard investiga el origen de la escama en un puesto
+ambulante oriental]
+Mujer Camboyana: Yo creo que sí.
+Deckard: ¿Pescado?
+Mujer Camboyana: Creo que es manufacturado. Buena calidad. Un trabajo excelente. Está
+el número de serie del fabricante: 990-6947-XB71. Interesante. No es pescado.
+Escama de serpiente.
+Deckard: ¿Serpiente?
+10
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Mujer Camboyana: Intenta con Abdul Ben-Hassan. Él ha hecho esa serpiente.
+[Local de Abdul Ben-Hassan's]
+Deckard: ¿Abdul Hassan? Soy oficial de policía. Me gustaría hacerle unas preguntas.
+Licencia para serpientes artificiales XB71. ¿Es usted? Este trabajo es suyo ¿no? ¿A
+quién se lo vendió?
+Abdul: ¿Trabajo mío? No muchos podrían pagar tanta calidad.
+Deckard: ¿Cuantos?
+Abdul: Muy pocos.
+[Deckard agarra a Abdul Ben-Hassan por el cuello]
+Deckard: ¿Quién? Escucha amigo ....
+Abdul: Taffey Lewis, en el distrito cuarto, barrio chino.
+Deckard: Eres un buen chico.
+[Local de Taffey Lewis]
+Deckard: Camarero! ¿Taffey Lewis?
+[El camarero señala a un hombre]
+Deckard: ¿Taffey? Me gustaría hacerle algunas preguntas.
+[Taffey está acompañado y pide estar solo para hablar con Deckard]
+Taffey: Vete.
+Deckard: ¿Le ha comprado alguna vez serpientes al egipcio, Taffey?
+Taffey: Claro, siempre amigo.
+Deckard: ¿Ha visto alguna vez a esta mujer?
+Taffey: Nunca la he visto. Lárgate.
+Deckard: Sus papeles .... ¿están en regla?
+Taffey: Eh, Langi, este hombre está seco. Dale una de parte de la casa. ¿Vale?
+[Deckard llama a Rachael por videophone desde el local de Taffey]
+Rachael: ¿Diga?
+Deckard: Me han dejado plantado otras veces, pero nunca cuando estaba siendo tan
+amable. Ahora estoy en un bar, en el distrito cuarto. Es de un tal Taffey Lewis. ¿Por
+qué no viene y tomamos una copa?
+Rachael: Creo que no, Sr. Deckard. Ese lugar no es de mi estilo.
+Deckard: ¿Vamos a algún otro sitio?
+[Rachael cuelga a Deckard. El Videophone marca "TOTAL CHARGE - $1.25"]
+Presentador: Damas y caballeros, Taffey Lewis presenta a la señorita Salomé y la serpiente.
+Véanla gozar con la serpiente que una vez corrompió al hombre.
+[Corte. Camerino de la señorita Salomé]
+Deckard: Perdone señorita Salomé. ¿Puedo hablar con usted un momento? Soy de la
+Federación Americana de Artistas de Variedades.
+Zhora: ¿Ah, sí?
+Deckard: No pretendo que se afilie, no señora. Ese no es mi departamento. En realidad ....
+estoy en el comité confidencial de abusos morales.
+Zhora: ¿Comité de abusos morales?
+11
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Deckard: Sí, señora. Ha habido informes de que la dirección de este local se toma ciertas
+libertades con los artistas.
+Zhora: Yo no sé nada de eso.
+Deckard: ¿Se ha sentido explotada de alguna forma?
+Zhora: ¿Qué quiere decir explotada?
+Deckard: Bueno, al conseguir este trabajo, es decir, ¿hizo usted o se le pidió que hiciera
+algo inmoral, ofensivo o quizá repulsivo para con su persona?
+[Zhora sonríe]
+Zhora: ¿Habla usted en serio?
+Deckard: Oh, sí. Me gustaría registrar su camerino, si me lo permite.
+Zhora: ¿Qué busca?
+Deckard: Pues, eh, agujeros.
+Zhora: ¿Agujeros?
+Deckard: Bueno, se sorprendería de lo que es capaz de hacer un tipo para echarle un
+vistazo a un cuerpo bonito.
+Zhora: No me sorprendería.
+Deckard: Hacen ... hacen pequeños agujeros en las paredes para poder ver desnudarse a
+una mujer [Pausa. Zhora se ducha en presencia de Deckard] ¿Esto es una serpiente
+de verdad?
+Zhora: No. ¿Cree que estaría trabajando en un número como éste si tuviera que hacerlo con
+una serpiente de verdad? [Pausa] Así que si alguien intenta explotarme ¿a quién
+acudo?
+Deckard: A mí.
+Zhora: Es usted muy listo. Séqueme.
+[Repentinamente Zhora comienza a luchar. Golpea a Deckard y sale huyendo.]
+[Deckard se recupera y sale a perseguir a Zhora. Durante la carrera Deckard se cruza con
+una gran diversidad de personas que pululan por las abarrotadas calles]
+Hari Krishnas: Hari, Hari. Hari, Hari. Hari, Hari.
+Semáforo parlante: Cruce ahora .... Cruce ahora .... Cruce ahora .... Cruce ahora ....
+Semáforo parlante: No cruce .... No cruce .... No cruce .... No cruce ....
+Deckard: Alto! Quítense de en medio!
+[Deckard dispara repetidas veces. Cámara lenta. Las balas impactan en Zhora por la
+espalda. Ésta rompe los cristales de una tienda antes de caer al suelo, toda
+ensangrentada]
+Deckard (voice-over): El informe sería retirada rutinaria de una replicante. Lo que no me
+haría sentir mejor que si le hubiera disparado a una mujer de verdad por la
+espalda. Podía sentir esa sensación en mi interior. Por ella. Por Rachael.
+[Deckard se identifica ante unos policías]
+Deckard: Deckard. B-2-6 3-5-4.
+Señal Sonora: Apártense .... Apártense .... Apártense .... Apártense ....
+[Deckard compra una botella en un bar. Aparece Gaff]
+Tendera: Un momento. ¿Qué desea?
+Deckard: Tsing tao. ¿Hay suficiente?
+Tendera: Sí.
+12
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Gaff: Bryant.
+Bryant: Deckard, tienes tan mal aspecto como esa pellejuda a la que has dejado en la
+acera.
+Deckard: Me voy a casa.
+Bryant: Podrías aprender de este hombre, Gaff. Es una maravillosa máquina de matar. Eso
+es lo que es. Aún quedan cuatro. Vamos, Gaff, vámonos.
+Deckard: Tres. Solo quedan tres.
+Bryant: Son cuatro. Ahora está esa a la que descubriste en la Tyrell Corporation, Rachael.
+Ha desaparecido, se esfumó. Ni siquiera sabía que era una replicante. Tiene algo
+que ver con un implante en el cerebro, dice Tyrell. Vamos, Gaff. Bébete una por mí,
+amigo.
+[Corte. Deckard es sorprendido y empujado por Leon]
+Deckard: Leon!
+Leon: ¿Qué edad tengo?
+[Deckard golpea a Leon sin éxito]
+Deckard: No lo sé.
+[Leon lanza a Deckard contra un muro]
+Leon: Nací el 2 de abril del 2017. ¿Cuánto voy a vivir?
+Deckard: Cuatro años.
+[Leon vuelve a lanzar a Deckard contra otro muro. Deckard saca su pistola pero Leon se la
+arrebata velozmente]
+Leon: Más que tú!
+[Leon lanza un golpe a Deckard. Éste logra esquivarlo en el último momento]
+Leon: Es penoso vivir con miedo, ¿verdad?
+[Leon golpea a Deckard]
+Leon: No hay nada peor que sentir picor y no poder rascarse.
+Deckard: Estoy de acuerdo.
+[Leon toma a Deckard por el cuello y le golpea nuevamente]
+Leon: Espabila, es hora de morir!
+[Leon está preparado para hundir sus dedos en los ojos de Deckard. Por detrás aparece
+Rachael que dispara a Leon]
+[Corte. Apartamento de Deckard]
+Deckard: ¿Nerviosa? Yo también. No es agradable, pero .... forma parte del trabajo.
+Rachael: Yo no estoy en ese trabajo. [Pausa] Yo soy ese trabajo.
+[Deckard entra en la cocina. Desnuda su pecho y enjuaga su ensangrentada boca]
+Rachael: ¿Y si me fuera al norte? Si desapareciera. ¿Vendrías tras de mí? ¿Me darías caza?
+Deckard: No. No lo haría. Te debo la vida. Pero, puede .... que alguien lo hiciera.
+Rachael: Deckard, tú conoces mis expedientes. La fecha de nacimiento, la longevidad, esas
+cosas. ¿Los has visto?
+Deckard: Están archivados.
+Rachael: Pero, tú eres policía.
+Deckard: Yo .... no los he visto.
+13
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Rachael: Oye, ese test vuestro de Voight Kampff .... ¿Te lo has hecho a ti mismo alguna
+vez?
+Rachael: ¿Deckard?
+[Deckard descansa levemente en el sofá. Rachael se sienta al piano y empieza a tocar
+suavemente]
+Deckard: Soñaba con música.
+Rachael: No sabía si podría tocar. Recuerdo las lecciones. No sé si soy yo o la sobrina de
+Tyrell.
+Deckard: Tocas muy bien.
+[Deckard acaricia a Rachael. Ésta sale corriendo del apartamento. Deckard la detiene
+bruscamente y la besa varias veces]
+Deckard: Ahora, bésame.
+Rachael: No puedo fiarme de mi memoria.
+Deckard: Dime que te bese.
+Rachael: Bésame.
+Deckard: Te deseo.
+Rachael: Te deseo.
+Deckard: Otra vez.
+Rachael: Te deseo. Pon tus manos sobre mí.
+[Corte. Apartamento de Sebastian. Pris se maquilla mientras observa las cosas de
+Sebastian]
+Sebastian: ¿Qué estás haciendo?
+Pris: Lo siento, sólo miraba.
+Sebastian: Oh.
+Pris: ¿Qué aspecto tengo?
+Sebastian: Mucho mejor.
+Pris: ¿Sólo mejor?
+Sebastian: Bueno, estás preciosa.
+Pris: Gracias.
+Pris: ¿Qué edad tienes?
+Sebastian: 25.
+Pris: ¿Cuál es el problema?
+Sebastian: Síndrome de Methuselah.
+Pris: ¿Qué es eso?
+Sebastian: Mis glándulas. Envejecen demasiado deprisa.
+Pris: ¿Por eso estás aún en la Tierra?
+Sebastian: Sí. No pasaría el examen médico. De todas formas esto me gusta.
+Pris: A mí me gusta tu forma de ser. Hola Roy!
+[Aparece Roy Batty ante la sorpresa de Sebastian]
+Roy: Hola. Vaya, tiene unos juguetes muy bonitos.
+Pris: Este es el amigo del que te he hablado. Este es mi salvador, J. F. Sebastian.
+14
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Roy: Sebastian .... me gusta los hombres que echan raíces. Vive usted aquí solo, ¿verdad?
+Sebastian: Sí.
+[Roy besa a Pris]
+Sebastian: ¿Qué les parece si desayunamos? Iba a preparar algo. Perdón.
+Pris: ¿Y bien?
+Roy: Leon
+Pris: ¿Qué ha ocurrido?
+Roy: Ah .... ahora solo quedamos dos.
+Pris: Somos estúpidos y moriremos.
+Roy: No, no moriremos.
+[Roy se acerca a la mesa de ajedrez. Mueve una pieza]
+Sebastian: No. El rey come a la reina, ¿lo ve? Un fallo.
+Roy: ¿Por qué nos mira así, Sebastian?
+Sebastian: Porque ustedes son diferentes. Tan perfectos.
+Roy: Sí.
+Sebastian: ¿De qué generación son?
+Roy: Nexus 6.
+Sebastian: Ahá, lo sabía, porque yo hago trabajos genéticos para la Tyrell Corporation. Hay
+algo mío en ustedes. Hagan una demostración.
+Roy: ¿De qué?
+Sebastian: Lo que sea.
+Roy: No somos computadoras, Sebastian. Somos físicos.
+Pris: Yo creo, Sebastian, que eso es lo que soy.
+Roy: Muy bien, Pris. Muéstrale porqué.
+[Pris introduce su mano en el agua hirviendo y lanza unos huevos a Sebastian]
+[Sebastian los toma al aire quemándose las manos. Roy sonríe]
+Roy: Tenemos mucho en común.
+Sebastian: ¿Qué quiere decir?
+Roy: Problemas similares.
+Pris: Envejecimiento acelerado.
+Sebastian: Yo no sé mucho de biomecánica, Roy, y me gustaría saber ....
+Roy: Si no lo descubrimos pronto a Pris no le queda mucha vida. No podemos permitir eso.
+[pausa] ¿Es bueno?
+Sebastian: ¿Quién?
+Roy: Su oponente.
+Sebastian: Ah, ¿el doctor Tyrell? Sólo le he ganado una vez al ajedrez. Es un genio. Él les
+diseñó.
+Roy: Quizás él podría ayudar.
+Sebastian: Será un placer comentárselo. Sí.
+Roy: Es mejor que le hable yo personalmente. Por lo que he oído es un hombre difícil de
+ver.
+15
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Sebastian: Sí, mucho.
+Roy: ¿Nos ayudará?
+Sebastian: No puedo.
+Pris: Te necesitamos Sebastian. Eres nuestro único amigo.
+[Roy bromea con unos ojos saltones de juguete]
+Roy: Nos alegramos de que nos encontrara.
+Pris: No creo que haya otro ser humano en el mundo que nos hubiera ayudado.
+[Pris besa a Sebastian]
+[Corte. Mansión de Tyrell. Aparece Tyrell en su cama revisando unos informes. Roy y
+Sebastian esperan en el ascensor]
+Tyrell: 66.000 Prosser y Ankovich. Hmmm.. Contrato. Contrato a ....
+Computadora: Entrada. Un tal J.F. Sebastian 1-6-4-1-7.
+Tyrell: ¿A estas horas? ¿Qué desea usted Sebastian?
+Sebastian: Reina a alfil 6. Jaque.
+Tyrell: Tonterías. Espere un momento. Reina a alfil 6. Ridículo. Reina a alfil 6. Hmmm...
+Caballo por reina. [pausa] ¿Qué pasa Sebastian? ¿En qué está pensando?
+Roy: [Susurrando a Sebastian] Alfil a rey 7. Jaque.
+Sebastian: Alfil a rey 7. Jaque mate.
+Tyrell: Se le ha iluminado el cerebro, ¿eh? La leche y los pasteles le mantienen despierto,
+¿eh? Vamos a discutir esto. Será mejor que suba Sebastian.
+Sebastian: ¿Sr. Tyrell? He traído a un amigo.
+Tyrell: Me sorprende que no hayas venido antes.
+Roy: No es cosa fácil conocer a tu creador.
+Tyrell: ¿Y qué puedo hacer yo por ti?
+Roy: ¿Puede el creador reparar lo que ha hecho?
+Tyrell: ¿Te gustaría ser modificado?
+Roy: ¿Y quedarme aquí? [pausa] Pensaba en algo más radical.
+Tyrell: ¿Qué? .... ¿Qué es lo que te preocupa?
+Roy: La muerte.
+Tyrell: ¿La muerte? Me temo que eso está fuera de mi jurisdicción, tú ....
+Roy: Yo quiero vivir más, padre.
+Tyrell: La vida es así. Hacer una alteración en el desarrollo de un sistema orgánico de vida
+es fatal. Un programa codificado no puede ser revisado una vez establecido.
+Roy: ¿Por qué no?
+Tyrell: Porque al segundo día de incubación, cualquier célula que ha sido sometida a
+mutaciones de reversión alcanza unas pautas de retroceso, como las ratas que
+abandonan el barco, que va a hundirse, y luego el barco se hunde.
+Roy: ¿Qué hay de la recombinación EMS?
+Tyrell: Ya lo hemos intentado. El Etil Metano Sulfato es un agente alcalino y un poderoso
+mutante. Creaba un virus, tan letal que el individuo moría antes de que acabara la
+operación.
+Roy: Entonces una proteína represora que bloquee las células operantes ....
+16
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Tyrell: No impediría la duplicación, pero eso llevaría a un error en la réplica que hace que la
+recién formada DNA lleve consigo una mutación. Y así llegamos de nuevo al virus.
+Pero, esto solo es teoría. Tú fuiste formado lo más perfectamente posible.
+Roy: Pero no para durar.
+Tyrell: La luz que brilla con el doble de intensidad dura la mitad de tiempo. Y tú has brillado
+con muchísima intensidad, Roy. Mírate, eres el hijo pródigo. Eres todo un premio.
+Roy: He hecho cosas malas.
+Tyrell: Y también cosas extraordinarias. Goza de tu tiempo.
+Roy: No haré nada por lo que el dios de la biomecánica me impida la entrada en su cielo.
+[Roy besa a Tyrell en la boca. Toma su cabeza entre sus manos, aplasta su cráneo y hunde
+los pulgares en sus ojos]
+[Corte. Aparece Deckard dentro de su coche que está aparcado en una oscura calle. Unos
+pequeños seres se acercan]
+Vándalo 1: Jemand hat uns ein kleines Geschenk dagelassen. [En alemán: "Alguien nos ha
+dejado un pequeño regalo."]
+Vándalo 2: Ist jemand drinnen? [En alemán: "¿Hay alguien dentro?"]
+Vándalo 3: Ich kann nichts sehen. Hey, warte bis die Bullen weg sind! Hey, warte bis die
+Bullen weg [En alemán: "No veo nada. Hey, espera a que se marchen los policías.
+Espera a que se marchen los policías. "]
+Bryant: El cuerpo encontrado junto a Tyrell corresponde a un varón, 25 años, blanco,
+nombre Sebastian, J.F. Sebastian, dirección Apartamentos Bradbury, distrito
+noveno, teléfono 46751. Quiero que vayas allí.
+[Un Spinner de la policía se acerca por encima del coche de Deckard]
+Policía: Este sector está cerrado al tráfico rodado. ¿Qué está haciendo aquí?
+Deckard: Trabajando, ¿y ustedes qué hacen?
+Policía: Detenerle, eso es lo que voy a hacer.
+Deckard: Soy Deckard, Blade Runner 2-6-3-5-4. Estoy registrado y localizado.
+Policía: Un momento, revisión. [pausa] Bien, revisado, que se divierta.
+[Deckard llama al apartamento de Sebastian]
+Pris: ¿Diga?
+Deckard: Hola, ¿está J.F.?
+Pris: ¿Quién es?
+Deckard: Soy Eddie, un viejo amigo de J.F.
+[Pris cuelga el teléfono]
+Deckard: Vaya forma de tratar a un amigo.
+[Deckard percibe que hay alguien sobre su coche y acelera. El Vándalo cae al suelo con una
+caja]
+Vándalo 1: (So ein) Scheißkerl! [En alemán: "Qué cabrón!"]
+[Los vándalos se pelean por la caja robada]
+Vándalo 2: Gib` das sofort her! Hau ab! [En alemán: " Dámelo! "]
+[Deckard llega al apartamento de Sebastian. Sube lentamente las escaleras pistola en
+mano. Abre la puerta. Aparecen las criaturas de Sebastian]
+Kaiser y Bear: Buenas noches J.F., buenas noches J.F.
+Kaiser: [Da media vuelta y se marcha. Se golpea con la pared] Oooh!
+17
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+[Aparecen gran cantidad de ruidosos juguetes esparcidos por todo el apartamento ....
+Deckard busca .... Descubre a Pris oculta tras un velo. Pris ataca velozmente a
+Deckard golpeándole en la cabeza. Intenta ahogarlo entre sus piernas. Toma
+carrerilla para lanzar un golpe definitivo a Deckard. Éste, a duras penas, logra
+disparar en el último momento. Pris cae muerta. [pausa] Llega Roy. Deckard se
+esconde y le dispara, aunque falla]
+Roy: No es muy limpio disparar contra un oponente desarmado. Yo creí que se suponía que
+eras bueno. ¿No eres tú el mejor? Vamos, Deckard, muéstrame de qué estas
+hecho.
+[Roy rompe una pared y apresa la mano de Deckard]
+Roy: ¿Estás orgulloso de ti, hombrecito? Esto es por Zhora.
+[Roy disloca varios dedos de la mano de Deckard]
+Deckard: Arrggh!
+Roy: Y esto por Pris.
+Deckard: Arrgghh!
+Roy: Vamos, Deckard. Estoy aquí, pero procura no fallar.
+[Deckard dispara alcanzando levemente a Roy]
+Roy: Eso no ha estado muy bien. Ahora me toca a mí. Te voy a dar unos segundos antes de
+entrar. Uno, dos. [Deckard huye dentro del profundo apartamento. Roy se acerca
+hasta donde yace Pris] Tres, cuatro. Pris ....
+[Roy llora, aúlla y besa a Pris. Deckard se detiene en su alocada huida para volver a
+colocarse correctamente los dedos]
+Deckard: Arrghhh!
+[Roy aúlla fuertemente]
+Roy: [canturreando] Voy allá. [pausa] Deckard! Cuatro, cinco. Aún sigues vivo! [Roy corre y
+aúlla nuevamente] Puedo verte! [La mano de Roy empieza a agarrotarse] Todavía
+no. No!
+[Roy percibe que su tiempo está terminando. Se muerde la mano. Arranca un clavo de una
+viga y se lo atraviesa en la palma]
+[Roy rompe una pared con su cabeza. En la otra habitación se encuentra Deckard]
+Roy: Será mejor que hullas o voy a tener que matarte. A menos que estés vivo no puedes
+jugar, y si no juegas ....
+[Roy tose agotado. Deckard coge una barra de metal]
+Roy: Seis, siete. Ir al infierno, ir al cielo!
+[Deckard golpea a Roy con la barra]
+Roy: Ir al infierno! Bien, así me gusta.
+[Deckard sube a la azotea. Roy aúlla]
+Roy: Esto duele. Ha sido algo irracional. Sin mencionar el comportamiento antideportivo.
+[Roy se ríe al observar a Deckard trepar hasta la azotea] ¿Adónde vas?
+[Deckard llega a la azotea. Intenta saltar hasta otro edificio pero se queda corto. Se
+mantiene suspendido de una viga con el vacío bajo sus pies]
+[Roy toma una paloma en su mano. Salta prodigiosamente. Observa el sufrimiento de
+Deckard, a punto de caer al vacío]
+Roy: Es toda una experiencia vivir con miedo, ¿verdad? Eso es lo que significa ser esclavo.
+[Deckard cae, pero Roy logra sujetarlo en el último momento. Le levanta en vilo y le deja
+sobre la azotea]
+18
+ B l a d e R u n n e r G u i ó n p e l í c u l a
+Roy: Yo he visto cosas que vosotros no creeríais. Atacar naves en llamas más allá de Orión.
+He visto Rayos-C brillar en la oscuridad cerca de la Puerta de Tannhäuser. Todos
+esos momentos se perderán en el tiempo como lágrimas en la lluvia. Es hora de
+morir.
+[Roy muere. Su mano libera a la paloma que sale volando hacia el cielo]
+Deckard (voice-over): No sé por qué me salvó la vida. Quizás en esos últimos momentos
+amaba la vida más de lo que la había amado nunca. No solo su vida; la vida de
+todos, mi vida. Todo lo que él quería eran las mismas respuestas que todos
+buscamos; de dónde vengo, adónde voy, cuánto tiempo me queda. Todo lo que yo
+podía hacer era sentarme allí y verle morir.
+Gaff: Ha hecho un buen trabajo señor. Supongo que ya está acabado.
+Deckard: He acabado.
+Gaff: Lástima que ella no pueda vivir, pero ¿quién vive?
+[Corte. Apartamento de Deckard. La puerta está abierta]
+Deckard: ¿Rachael?, ¿Rachael?, ¿Rachael?
+[Deckard encuentra a Rachael durmiendo]
+Deckard: ¿Me quieres?
+Rachael: Te quiero.
+Deckard: ¿Confías en mí?
+Rachael: Confío.
+[Deckard y Rachael salen del apartamento. Caminan hacia el ascensor]
+Deckard: Rachael.
+[Rachael roza con su pie una pequeña figura. Deckard la toma. Es un unicornio de origami]
+Gaff (recuerdo): Lástima que ella no pueda vivir, pero ¿quién vive?
+[Deckard y Rachael abandonan la ciudad en coche]
+Deckard (voice-over): Gaff había estado allí y la había dejado vivir. Cuatro años creía él.
+Estaba equivocado. Tyrell me había dicho que Rachael era especial. No tenía fecha
+de terminación. Yo no sabía cuánto tiempo estaríamos juntos. ¿Quién lo sabe?
+A MICHAEL DEELY- RIDLEY SCOTT PRODUCTION
