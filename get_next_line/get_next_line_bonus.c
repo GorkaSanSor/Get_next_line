@@ -1,12 +1,12 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line.c                                    :+:      :+:    :+:   */
+/*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: gsantill <gsantill@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/12 10:35:46 by gsantill          #+#    #+#             */
-/*   Updated: 2024/10/24 13:04:53 by gsantill         ###   ########.fr       */
+/*   Updated: 2024/10/24 13:50:26 by gsantill         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -63,21 +63,21 @@ char	*get_next_line(int fd)
 {
 	char		*line;
 	char		*buf;
-	static char	*stash;
+	static char	*stash[1024];
 
-	if (fd < 0 || BUFFER_SIZE <= 0)
+	if (fd < 0 || fd > 1024 || BUFFER_SIZE <= 0 )
 		return (0);
 	buf = (char *)malloc(sizeof(char) * (BUFFER_SIZE + 1));
 	if (!buf)
 		return (0);
-	line = ft_read_line(fd, stash, buf);
+	line = ft_read_line(fd, stash[fd], buf);
 	free (buf);
 	if (!line)
 	{
-		free (stash);
-		stash = NULL;
+		free (stash[fd]);
+		stash[fd] = NULL;
 		return (0);
 	}
-	stash = ft_next_stash(line);
+	stash[fd] = ft_next_stash(line);
 	return (line);
 }
